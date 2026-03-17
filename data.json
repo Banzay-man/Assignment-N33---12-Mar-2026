@@ -1,0 +1,10 @@
+{
+  "name": "Beka",
+  "age": 44,
+  "profession": "Network Specialist",
+  "skills": [
+    "Node.js",
+    "Linux",
+    "Cisco"
+  ]
+}
